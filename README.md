@@ -6,3 +6,7 @@ with particles.js library
 
 -> copy/paste repository in MAMP/htdocs
 -> url to connect should be : localhost:PORT_NUMBER/YOUR_REPO_NAME
+
+
+# origin repository
+https://github.com/VincentGarreau/particles.js/
